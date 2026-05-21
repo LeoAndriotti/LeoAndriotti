@@ -27,13 +27,13 @@ Estou em formação contínua em DevOps e sistemas web, sempre buscando conectar
 
 ## 📚 Estudando e praticando
 
--Backend: PHP e Laravel no dia a dia — APIs, regras de negócio e integração com banco de dados
--Frontend: Do HTML/CSS básico ao JavaScript, jQuery, React e Vite em projetos reais
--Banco de dados: MySQL com foco em modelagem, padronização e consultas eficientes
--Infraestrutura: Linux, SSH, VPS, Docker e Nginx — entendendo o ambiente além do código
--Versionamento: Git e GitHub no fluxo de trabalho em equipe
--Automações: Scripts e integrações com APIs, usando IA como ferramenta de produtividade
--Metodologias: Scrum e Kanban aplicados no contexto de projetos reais
+-**Backend:** PHP e Laravel no dia a dia — APIs, regras de negócio e integração com banco de dados
+-**Frontend:** Do HTML/CSS básico ao JavaScript, jQuery, React e Vite em projetos reais
+-**Banco de dados:** MySQL com foco em modelagem, padronização e consultas eficientes
+-**Infraestrutura:** Linux, SSH, VPS, Docker e Nginx — entendendo o ambiente além do código
+-**Versionamento:** Git e GitHub no fluxo de trabalho em equipe
+-**Automações:** Scripts e integrações com APIs, usando IA como ferramenta de produtividade
+-**Metodologias:** Scrum e Kanban aplicados no contexto de projetos reais
 
 ---
 
