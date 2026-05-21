@@ -10,9 +10,8 @@ Sou **Leonardo Andriotti**, desenvolvedor web e técnico em TI, graduando em **A
 
 Atuo como desenvolvedor web no escritório de advocacia **Dias do Canto**, onde trabalho diariamente com PHP, Laravel, React, JavaScript, jQuery e MySQL — construindo e mantendo sistemas em ambiente profissional real.
 
-Meu caminho mistura **programação, infraestrutura, automações, DevOps em formação e sistemas web**. Gosto de entender como as coisas funcionam por baixo dos panos: servidor, DNS, deploy, banco de dados, Docker, Nginx, e-mail corporativo, integrações e fluxos automatizados.
-
-> *Aprender construindo. Evoluir entregando. Documentar o caminho.*
+Meu dia a dia mistura desenvolvimento web, suporte técnico, infraestrutura e automações. Gosto de entender como os sistemas funcionam de ponta a ponta: da aplicação ao servidor, do banco de dados ao deploy, do fluxo de e-mail corporativo à integração com APIs.
+Estou em formação contínua em DevOps e sistemas web, sempre buscando conectar o que aprendo com problemas reais — porque pra mim, tecnologia só faz sentido quando resolve algo de verdade.
 
 ---
 
@@ -28,13 +27,13 @@ Meu caminho mistura **programação, infraestrutura, automações, DevOps em for
 
 ## 📚 Estudando e praticando
 
-- **Backend:** PHP, Laravel, MySQL e fundamentos de APIs
-- **Frontend:** HTML, CSS, JavaScript, jQuery, React e Vite
-- **Infraestrutura:** Linux, SSH, VPS, Docker, Nginx e deploy
-- **Banco de dados:** MySQL, modelagem e padronização de tabelas
-- **DevOps:** Git, GitHub e organização de fluxo de trabalho
-- **Automações:** scripts, integrações com APIs e uso de IA como copiloto técnico
-- **Gestão:** Scrum, Kanban e ferramentas de produtividade
+-Backend: PHP e Laravel no dia a dia — APIs, regras de negócio e integração com banco de dados
+-Frontend: Do HTML/CSS básico ao JavaScript, jQuery, React e Vite em projetos reais
+-Banco de dados: MySQL com foco em modelagem, padronização e consultas eficientes
+-Infraestrutura: Linux, SSH, VPS, Docker e Nginx — entendendo o ambiente além do código
+-Versionamento: Git e GitHub no fluxo de trabalho em equipe
+-Automações: Scripts e integrações com APIs, usando IA como ferramenta de produtividade
+-Metodologias: Scrum e Kanban aplicados no contexto de projetos reais
 
 ---
 
