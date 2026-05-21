@@ -14,7 +14,6 @@ Meu dia a dia mistura **desenvolvimento web, suporte técnico, infraestrutura e 
 
 Estou em formação contínua em **DevOps e sistemas web**, sempre buscando conectar o que aprendo com problemas reais — porque pra mim, tecnologia só faz sentido quando resolve algo de verdade.
 
-> *Aprender construindo. Evoluir entregando. Documentar o caminho.*
 
 ---
 
