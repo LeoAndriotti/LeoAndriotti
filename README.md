@@ -6,13 +6,13 @@
 
 ## Sobre mim
 
-Sou **Leonardo Andriotti**, desenvolvedor web com experiência profissional real e perfil técnico amplo — que vai além do código.
+Sou **Leonardo Andriotti**, desenvolvedor web com experiência profissional real e perfil técnico amplo, que vai além do código.
 
-Atuo como desenvolvedor web no escritório de advocacia **Dias do Canto**, onde trabalho diariamente com PHP, Laravel, React, JavaScript, jQuery e MySQL — construindo e mantendo sistemas em ambiente profissional real.
+Atuo como desenvolvedor web no escritório de advocacia **Dias do Canto**, onde trabalho diariamente com PHP, Laravel, React, JavaScript, jQuery e MySQL, construindo e mantendo sistemas em ambiente profissional real.
 
 Meu dia a dia mistura **desenvolvimento web, suporte técnico, infraestrutura e automações**. Gosto de entender como os sistemas funcionam de ponta a ponta: da aplicação ao servidor, do banco de dados ao deploy, do fluxo de e-mail corporativo à integração com APIs.
 
-Estou em formação contínua em **DevOps e sistemas web**, sempre buscando conectar o que aprendo com problemas reais — porque pra mim, tecnologia só faz sentido quando resolve algo de verdade.
+Estou em formação contínua em **DevOps e sistemas web**, sempre buscando conectar o que aprendo com problemas reais, porque pra mim, tecnologia só faz sentido quando resolve algo de verdade.
 
 
 ---
@@ -29,10 +29,10 @@ Estou em formação contínua em **DevOps e sistemas web**, sempre buscando cone
 
 ## 📚 Estudando e praticando
 
-- **Backend:** PHP e Laravel no dia a dia — APIs, regras de negócio e integração com banco de dados
+- **Backend:** PHP e Laravel no dia a dia, APIs, regras de negócio e integração com banco de dados
 - **Frontend:** Do HTML/CSS básico ao JavaScript, jQuery, React e Vite em projetos reais
 - **Banco de dados:** MySQL com foco em modelagem, padronização e consultas eficientes
-- **Infraestrutura:** Linux, SSH, VPS, Docker e Nginx — entendendo o ambiente além do código
+- **Infraestrutura:** Linux, SSH, VPS, Docker e Nginx, entendendo o ambiente além do código
 - **Versionamento:** Git e GitHub no fluxo de trabalho em equipe
 - **Automações:** Scripts e integrações com APIs, usando IA como ferramenta de produtividade
 - **Metodologias:** Scrum e Kanban aplicados no contexto de projetos reais
@@ -83,7 +83,7 @@ Estou em formação contínua em **DevOps e sistemas web**, sempre buscando cone
 | **[ListadeTarefas](https://github.com/LeoAndriotti/ListadeTarefas)** | Aplicação de lista de tarefas com manipulação de dados e lógica de programação | Java |
 | **[ProjetoZoodiaco](https://github.com/LeoAndriotti/ProjetoZoodiaco)** | Projeto de estudo com foco em orientação a objetos e lógica | Java |
 | **[aplicativoMobile](https://github.com/LeoAndriotti/aplicativoMobile)** | Aplicativo mobile desenvolvido em equipe durante disciplina de programação mobile | TypeScript, React Native |
-| **Dias do Canto** | Experiência profissional real — desenvolvimento e manutenção de sistemas internos de um escritório de advocacia | PHP, Laravel, React, jQuery, MySQL |
+| **Dias do Canto** | Experiência profissional real, desenvolvimento e manutenção de sistemas internos de um escritório de advocacia | PHP, Laravel, React, jQuery, MySQL |
 
 ---
 
