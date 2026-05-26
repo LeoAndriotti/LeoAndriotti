@@ -75,7 +75,7 @@ Estou em formação contínua em **DevOps e sistemas web**, sempre buscando cone
 
 | Projeto / Experiência | O que mostra | Tecnologias |
 |---|---|---|
-| **[Portfólio]([https://github.com/LeoAndriotti/Portfolio](https://portfolio-seven-gamma-a1qk0d8gob.vercel.app/))** | Portfólio mostrando minhas habilidades, caracteristicas e conquistas | HTML, CSS e  JavaScript |
+| **[Portfólio](https://portfolio-seven-gamma-a1qk0d8gob.vercel.app/)** | Portfólio mostrando minhas habilidades, caracteristicas e conquistas | HTML, CSS e  JavaScript |
 | **[EcoMarket](https://github.com/LeoAndriotti/EcoMarket)** | Marketplace completo de produtos sustentáveis com autenticação, dashboard do produtor, gestão de produtos, upload de imagens e vitrine pública com filtros dinâmicos | PHP, MySQL, JavaScript, CSS3 |
 | **[CSLTimes](https://github.com/LeoAndriotti/JornalCSL)** | Portal de notícias com publicação de artigos, gestão de usuários, carrossel de anúncios, cotação de moedas em tempo real, previsão do tempo e dark mode | PHP, MySQL, JavaScript, APIs externas |
 | **[SorrisoPerfeito](https://github.com/LeoAndriotti/Dentista)** | Landing page responsiva e moderna para clínica odontológica fictícia, com galeria, depoimentos, formulário de contato e animações interativas | HTML5, CSS3, JavaScript |
